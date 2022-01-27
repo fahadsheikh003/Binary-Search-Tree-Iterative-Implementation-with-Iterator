@@ -6,7 +6,6 @@ using namespace std;
 template <typename K, typename V>
 class BST
 {
-public:
 	struct Node
 	{
 		K key;
